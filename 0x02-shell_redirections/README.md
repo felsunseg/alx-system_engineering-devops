@@ -1,2 +1,3 @@
-#!/bin/bash
-task 0 is a script that prints  “Hello, World”, followed by a new line to the standard output
+ script that prints “Hello, World”, followed by a new line to the standa
+rd output
+
